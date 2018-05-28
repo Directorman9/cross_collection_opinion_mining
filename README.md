@@ -1,4 +1,4 @@
-# Masters_thesis
+# Cross-collection opinion mining
 
 This is project containing code and data sets I used in my Master's thesis; Cross-collection aspect based opinion mining using topic models.
 
