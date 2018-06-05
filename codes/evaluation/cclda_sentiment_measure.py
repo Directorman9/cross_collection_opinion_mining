@@ -1,7 +1,7 @@
 #This Python file uses the following encoding: utf-8
 '''
 Calculated sentiment scores for each topic and perspective 
-Run the code as python cclda_sentiments.py cclda_post_processed_outputfile
+Run the code as python cclda_sentiment_measure.py cclda_post_processed_outputfile
 Where cclda_post_processed_outputfile is the file obtained after post processing cclda output. 
 '''
 

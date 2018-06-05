@@ -1,9 +1,9 @@
 #This Python file uses the following encoding: utf-8
 """
-Takes a text file say fileA, for each line(doc) in fileA tokenises the words and adds a collection number before the line and writes it to an output file Does the same to all lines(docs) in fileA, and all files in the dataFolder
+Calculates avarage sentiment score for every aspect from a given hotel review dataset.
 
-Run it in command line as : python cclda_prepro_txt.py dataFolder/
-dataFolder is where the .txt files containing the perspectives reside.
+Run it in command line as : python ground_truth_sentiments.py hotel_review_file
+
 """
 
 import codecs, sys, glob, os
@@ -20,7 +20,7 @@ if not os.path.exists(outputDir):
    os.makedirs(outputDir)
 
 
-#Get data in the collections
+#Get data in the hotel review file
 for file in os.listdir(inputDir): 
     aspects = [[0,0],[0,0],[0,0],[0,0],[0,0],[0,0],[0,0]]   
     normalized = []
@@ -58,7 +58,7 @@ for file in os.listdir(inputDir):
                   aspects[6][0] = aspects[6][0] + rating
                   aspects[6][1] = aspects[6][1] + 1
 
-    #normalize sentiments from 1 to 5 to -1 to 1.
+    #normalize sentiments from 1->5 to -1->1.
     for aspect in  aspects:
         value = ((aspect[0]/aspect[1]) / 2) - 1.5
         normalized.append(value)

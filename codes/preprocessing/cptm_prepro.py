@@ -2,7 +2,7 @@
 """
 Takes a directory containing files, each file on a specific persepective (product or debate speaker). Takes a file say fileA, for each line(doc) in fileA takes only nouns(topic words) and list them as a first line of another text file say fileB, then takes adjectives, adverbs and pronouns (opinion words) from fileA and lists them as the second line in fileB. Does the same to all lines(docs) in fileA. and all files in the directory.
 
-Run it in command line as : python cptm_prepro.py dataFolder/
+Run it in command line as : python cptm_prepro.py dataFolder
 dataFolder is the directory containing .txt files each on a specific perspectives.
 """
 

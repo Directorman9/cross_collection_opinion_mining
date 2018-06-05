@@ -1,11 +1,11 @@
 #This Python file uses the following encoding: utf-8
 '''
-Measures topic coherance (lcp, pmi, npmi and cosine similarity) for every topic in the given postprocessed tam output file. 
-Run the code as python tam_coherence_measures.py inputDir/
-Where inputDir is the directory containing tam_refined outputfiles in .txt format.
+Measures topic coherance (lcp, pmi, npmi and cosine similarity) for every topic in the given refined cclda,cptm or tam refined file. 
+Run the code as python coherence_measures.py inputDir/
+Where inputDir is the directory containing refined outputfiles in .txt format.
 '''
 
-import codecs, sys, pickle, os, nltk, string
+import codecs, sys, pickle, os, string
 from gensim.topic_coherence import probability_estimation, direct_confirmation_measure, indirect_confirmation_measure
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -20,7 +20,7 @@ corpus = pickle.load(open("wiki_corpus.p", "rb"))
 #Load dictionary from disc
 w2id = pickle.load(open("wiki_w2id.p", "rb"))
 
-#Get topic words from tam post processed output files
+#Get topic words from tam refined output files
 for file in os.listdir(inputDir): 
     inputfile = os.path.join(inputDir, file) 
     outputfile1 = inputfile + 'lcp'
