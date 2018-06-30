@@ -1,0 +1,541 @@
+facilities:positive
+facilities:negative, location:negative, staff:negative
+room amenities:negative, cleanliness:positive, value:neutral, facilities:positive, location:positive, staff:negative, food/drinks:neutral, view:positive
+room amenities:negative, cleanliness:negative, value:negative, food/drinks:negative, location:negative, view:negative, payment:negative, staff:negative
+
+room amenities:positive, view:positive
+room amenities:negative, cleanliness:negative, value:negative, beds:negative, location:negative, staff:negative, customer support:negative
+room amenities:negative, value:negative, facilities:positive, location:negative, food/drinks:negative, staff:negative
+
+room amenities:positive, cleanliness:positive, payment:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, view:positive
+room amenities:positive, view:positive
+room amenities:positive, cleanliness:positive, value:positive, payment:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+value:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, customer support:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+room amenities:positive, wifi:positive, facilities:positive, location:neutral, food/drinks:positive, staff:positive
+staff:positive, food/drinks:positive, room amenities:positive, location:positive
+view:neutral
+
+facilities:positive
+room amenities:positive, quietness:negative, value:positive, facilities:neutral, customer support:positive, food/drinks:neutral, staff:negative
+facilities:negative
+facilities:neutral, staff:positive, food/drinks:negative, room amenities:positive, location:negative
+room amenities:negative, location:negative, value:neutral, facilities:negative, customer support:positive, view:negative, food/drinks:negative, staff:negative
+room amenities:negative, comfort:negative, value:negative, payment:negative, facilities:negative, location:neutral, staff:negative, food/drinks:negative, customer support:positive
+room amenities:positive, cleanliness:positive, value:positive, facilities:positive, quietness:negative, food/drinks:negative
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, customer support:positive
+cleanliness:negative, facilities:negative, food/drinks:negative, room amenities:negative, staff:negative
+food/drinks:negative
+room amenities:positive, value:positive, beds:positive, facilities:positive, location:positive, food/drinks:negative, staff:positive
+room amenities:negative, cleanliness:negative, comfort:positive, value:negative, beds:neutral, facilities:neutral, customer support:positive, staff:positive, food/drinks:positive, location:positive
+room amenities:neutral, quietness:negative, wifi:positive, location:positive, value:positive, payment:positive, facilities:positive, customer support:negative, cleanliness:positive, food/drinks:positive, staff:positive
+cleanliness:neutral
+
+food/drinks:positive, staff:positive
+quietness:positive, facilities:positive, food/drinks:positive, staff:positive
+room amenities:negative, comfort:negative, location:negative, beds:negative, facilities:negative, customer support:negative, food/drinks:positive, staff:negative
+room amenities:neutral, cleanliness:positive, comfort:positive, payment:negative, beds:neutral, facilities:negative, location:negative, food/drinks:negative, staff:negative
+
+room amenities:positive, cleanliness:positive, comfort:positive, value:negative, facilities:positive, design:negative, location:positive, food/drinks:positive, staff:negative
+room amenities:positive, cleanliness:positive, wifi:negative, location:positive, value:positive, food/drinks:positive, beds:positive, facilities:neutral, customer support:positive, view:positive, payment:negative, staff:positive
+
+beds:negative, customer support:negative, room amenities:negative, staff:negative
+room amenities:positive, quietness:positive, cleanliness:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, customer support:positive
+room amenities:positive, cleanliness:positive, value:positive, beds:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+facilities:negative
+room amenities:negative, cleanliness:negative, wifi:positive, value:positive, facilities:neutral, customer support:negative, staff:positive, food/drinks:negative, view:positive
+room amenities:negative, wifi:negative, food/drinks:negative, beds:negative, facilities:positive, location:negative, payment:negative, staff:negative
+room amenities:negative, cleanliness:negative, value:positive, facilities:negative, location:negative, payment:negative, staff:negative
+customer support:negative, room amenities:negative, cleanliness:negative, value:negative, beds:negative, facilities:neutral, location:negative, food/drinks:negative, staff:negative
+room amenities:negative, beds:negative, facilities:negative, location:neutral, food/drinks:positive, staff:negative
+
+room amenities:negative, value:negative, payment:negative, beds:negative, facilities:neutral, customer support:positive, staff:positive, food/drinks:positive, location:negative
+room amenities:negative, quietness:positive, comfort:negative, value:positive, payment:positive, facilities:neutral, customer support:positive, food/drinks:positive, location:positive
+room amenities:positive, quietness:negative, location:positive, value:positive, payment:positive, beds:positive, facilities:negative, customer support:positive, staff:positive, food/drinks:negative, view:positive
+room amenities:positive
+beds:negative, room amenities:negative
+room amenities:positive, cleanliness:positive, facilities:negative, quietness:negative, food/drinks:neutral, staff:negative
+room amenities:positive, quietness:negative, value:positive, facilities:negative, location:negative, cleanliness:positive, food/drinks:negative, staff:positive
+room amenities:negative, cleanliness:negative, facilities:neutral, location:positive, food/drinks:positive, staff:negative
+room amenities:negative, cleanliness:positive, beds:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+room amenities:negative, location:negative, food/drinks:negative, beds:negative, facilities:negative, customer support:negative, payment:negative, staff:positive
+beds:negative, food/drinks:negative, room amenities:negative, staff:negative
+room amenities:positive, view:positive
+room amenities:negative, cleanliness:negative, value:neutral, payment:neutral, beds:negative, location:negative, food/drinks:negative, staff:negative
+view:negative
+room amenities:negative, value:positive, food/drinks:positive, location:neutral, payment:positive, staff:neutral
+beds:positive, food/drinks:positive, room amenities:positive, staff:positive
+food/drinks:positive, value:neutral
+room amenities:positive, wifi:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+cleanliness:positive, facilities:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:positive, room amenities:positive, value:negative, food/drinks:positive
+
+
+cleanliness:positive, food/drinks:neutral, room amenities:positive, staff:positive
+room amenities:negative, cleanliness:negative, location:negative, value:negative, food/drinks:neutral, beds:negative, facilities:positive, customer support:neutral, payment:neutral, staff:negative
+room amenities:negative, food/drinks:negative, facilities:negative, view:negative, payment:negative, staff:negative
+customer support:negative, room amenities:neutral, cleanliness:negative, value:negative, payment:positive, beds:negative, facilities:neutral, location:positive, quietness:positive, food/drinks:positive, staff:negative
+cleanliness:negative, beds:negative, food/drinks:neutral, room amenities:negative
+food/drinks:negative, room amenities:negative, payment:negative
+room amenities:positive, quietness:positive, value:positive, facilities:positive, customer support:positive, cleanliness:positive, food/drinks:positive, staff:positive
+facilities:negative
+room amenities:negative, cleanliness:negative, comfort:negative, value:negative, facilities:negative, location:negative, view:negative, quietness:negative, food/drinks:negative, staff:negative
+room amenities:positive, cleanliness:positive, wifi:positive, location:neutral, value:positive, payment:neutral, facilities:positive, design:positive, customer support:neutral, view:neutral, food/drinks:positive, staff:positive
+room amenities:positive, wifi:positive, value:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:neutral, value:positive, beds:positive, facilities:positive, staff:positive, food/drinks:positive, view:positive
+value:positive, food/drinks:neutral, location:positive, room amenities:positive, staff:neutral
+room amenities:positive
+cleanliness:positive, facilities:positive
+room amenities:negative, comfort:neutral, value:positive, facilities:negative, food/drinks:positive, staff:positive
+value:positive
+facilities:negative, food/drinks:negative, staff:negative
+room amenities:negative, cleanliness:negative, value:positive, payment:positive, beds:negative, facilities:negative, location:neutral, view:positive, food/drinks:positive, staff:negative
+cleanliness:negative, location:negative, room amenities:negative, staff:negative
+facilities:positive, comfort:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:positive, food/drinks:positive, room amenities:positive, staff:positive
+
+room amenities:negative, cleanliness:negative, value:positive, facilities:neutral, design:negative, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, value:negative, food/drinks:negative, location:negative, payment:negative, staff:negative
+room amenities:positive, cleanliness:positive, value:neutral, facilities:positive, location:negative, food/drinks:positive, staff:negative
+staff:positive, food/drinks:positive, room amenities:negative, value:negative, customer support:negative
+room amenities:positive, cleanliness:positive, comfort:positive, value:neutral, payment:neutral, facilities:positive, location:neutral, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, quietness:negative, staff:positive, view:neutral
+room amenities:positive, cleanliness:neutral, value:positive, facilities:negative, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, location:neutral, food/drinks:positive, staff:positive
+room amenities:negative, wifi:positive, value:negative, payment:positive, facilities:positive, location:neutral, food/drinks:positive, staff:positive
+location:positive, food/drinks:positive, staff:positive
+room amenities:negative, value:negative, facilities:negative, location:negative, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:negative, location:positive, value:positive, payment:negative, facilities:positive, customer support:positive, food/drinks:neutral, staff:positive
+beds:negative, cleanliness:negative, food/drinks:negative, room amenities:negative
+room amenities:negative, value:negative, payment:negative, facilities:negative, customer support:negative, staff:positive, food/drinks:negative, location:neutral
+room amenities:positive, comfort:positive, value:positive, payment:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+cleanliness:positive, food/drinks:positive, room amenities:positive
+
+room amenities:negative, cleanliness:negative, payment:negative, facilities:negative, customer support:negative, staff:positive, food/drinks:negative, location:neutral
+
+room amenities:positive, cleanliness:positive, comfort:positive, value:positive, payment:negative, facilities:positive, location:positive, staff:positive, food/drinks:positive, view:neutral
+facilities:positive, wifi:neutral, location:positive, staff:positive
+room amenities:positive, value:positive, facilities:positive, customer support:positive, food/drinks:positive, staff:positive
+room amenities:neutral, quietness:positive, wifi:negative, value:neutral, beds:negative, facilities:positive, location:negative, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:positive, comfort:positive, location:negative, value:neutral, payment:negative, beds:positive, facilities:positive, customer support:positive, food/drinks:positive, staff:positive
+
+room amenities:neutral, cleanliness:neutral, comfort:negative, location:positive, value:neutral, beds:negative, facilities:negative, customer support:negative, staff:positive, food/drinks:positive, view:negative
+room amenities:negative, cleanliness:positive, comfort:positive, value:negative, facilities:positive, location:negative, food/drinks:negative, staff:neutral
+customer support:negative, room amenities:negative, cleanliness:positive, comfort:neutral, value:neutral, facilities:negative, location:negative, food/drinks:neutral, staff:negative
+cleanliness:negative, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:negative, comfort:negative, location:negative, value:negative, beds:negative, facilities:negative, customer support:negative, view:positive, food/drinks:negative, staff:negative
+room amenities:negative, value:negative, food/drinks:negative, facilities:negative, location:negative, payment:negative, staff:negative
+
+room amenities:negative, facilities:negative, cleanliness:negative, value:negative, food/drinks:negative, quietness:negative, location:negative, payment:negative, staff:negative
+value:negative, payment:negative, facilities:positive, location:positive, food/drinks:negative, staff:positive
+room amenities:positive, cleanliness:positive, beds:positive, facilities:negative, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:negative, beds:negative, facilities:negative, customer support:negative, staff:negative, food/drinks:negative, location:negative
+facilities:positive, payment:negative, food/drinks:negative, staff:positive
+
+customer support:negative, room amenities:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+customer support:positive, room amenities:positive, cleanliness:positive, wifi:neutral, value:neutral, payment:negative, facilities:negative, location:negative, quietness:neutral, food/drinks:negative, staff:neutral
+comfort:positive, value:negative, beds:negative, facilities:positive, design:positive, food/drinks:positive, staff:positive
+facilities:negative, food/drinks:positive, room amenities:positive, staff:positive
+food/drinks:positive
+facilities:positive, location:positive
+room amenities:negative, cleanliness:negative, comfort:negative, value:neutral, food/drinks:neutral, beds:negative, facilities:neutral, location:positive, payment:negative, staff:negative
+facilities:positive, value:positive, food/drinks:positive, room amenities:positive, view:positive
+customer support:negative, food/drinks:negative, staff:positive
+food/drinks:positive, value:positive, staff:positive
+staff:positive
+
+room amenities:positive, cleanliness:positive, comfort:positive, payment:negative, beds:positive, facilities:negative, location:negative, food/drinks:neutral, staff:negative
+room amenities:positive, cleanliness:negative, value:positive, food/drinks:negative, facilities:neutral, design:negative, location:positive, payment:positive, staff:neutral
+room amenities:negative, quietness:negative, comfort:negative, beds:negative, facilities:negative, food/drinks:negative, staff:negative
+
+room amenities:positive, cleanliness:negative, comfort:positive, value:positive, payment:negative, facilities:neutral, design:positive, location:negative, food/drinks:neutral, staff:positive
+room amenities:neutral, value:positive, payment:positive, facilities:negative, location:negative, view:negative, food/drinks:positive, staff:neutral
+facilities:negative, food/drinks:negative
+
+customer support:negative, room amenities:neutral, value:positive, food/drinks:positive, location:negative, payment:negative, staff:neutral
+room amenities:negative, cleanliness:negative, location:negative, value:negative, payment:negative, facilities:neutral, customer support:negative, view:negative, food/drinks:negative, staff:negative
+customer support:neutral, room amenities:positive, cleanliness:negative, comfort:positive, value:neutral, food/drinks:positive, beds:positive, facilities:neutral, location:negative, view:positive, quietness:positive, payment:negative, staff:neutral
+room amenities:negative, cleanliness:negative, beds:negative, facilities:negative, location:neutral, food/drinks:negative, staff:negative
+room amenities:positive, value:positive, payment:positive, beds:positive, facilities:neutral, location:positive, food/drinks:neutral, staff:positive
+room amenities:positive, cleanliness:positive, wifi:negative, location:positive, value:positive, facilities:positive, customer support:positive, staff:positive, quietness:negative, food/drinks:positive, view:negative
+room amenities:negative, cleanliness:negative, facilities:negative, location:negative, food/drinks:negative, view:positive
+room amenities:positive, cleanliness:positive, food/drinks:positive, facilities:positive, location:neutral, payment:positive, staff:positive
+facilities:positive, food/drinks:positive
+cleanliness:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, payment:positive, quietness:negative, location:positive, food/drinks:positive, staff:positive
+cleanliness:negative
+value:positive
+room amenities:negative, cleanliness:positive, comfort:positive, location:positive, value:negative, payment:negative, facilities:positive, customer support:positive, food/drinks:positive, staff:positive
+
+food/drinks:negative, room amenities:positive, staff:neutral
+
+cleanliness:positive, food/drinks:positive, room amenities:positive, staff:positive
+room amenities:negative, cleanliness:negative, comfort:negative, value:neutral, facilities:negative, location:positive, food/drinks:negative, staff:negative
+customer support:positive, room amenities:negative, cleanliness:negative, value:positive, facilities:neutral, location:positive, food/drinks:neutral, staff:neutral
+room amenities:negative
+room amenities:negative
+food/drinks:negative, room amenities:negative
+value:positive, location:positive, food/drinks:positive, room amenities:positive, staff:positive
+room amenities:positive, value:negative, facilities:positive, location:negative, food/drinks:positive, staff:positive
+facilities:positive, location:positive, food/drinks:positive, room amenities:positive, staff:positive
+customer support:positive, room amenities:positive, cleanliness:positive, value:neutral, payment:negative, facilities:positive, location:positive, view:negative, food/drinks:positive, staff:positive
+facilities:positive, food/drinks:positive, value:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, payment:negative, facilities:negative, customer support:negative, staff:negative, food/drinks:positive, location:negative
+room amenities:neutral, quietness:positive, view:positive, value:negative, facilities:negative, customer support:negative, staff:positive, food/drinks:positive, location:positive
+room amenities:positive, food/drinks:negative, facilities:neutral, location:positive, payment:negative, staff:neutral
+
+value:negative, food/drinks:positive, payment:negative, room amenities:negative, staff:negative
+view:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:negative
+room amenities:negative, food/drinks:negative, beds:negative, location:positive, payment:negative, staff:negative
+
+
+room amenities:negative, cleanliness:neutral, comfort:positive, value:positive, beds:negative, facilities:negative, food/drinks:positive, staff:negative
+room amenities:neutral, quietness:positive, cleanliness:negative, location:negative, value:positive, payment:positive, facilities:neutral, customer support:negative, view:positive, food/drinks:negative, staff:negative
+location:negative, food/drinks:negative, customer support:negative, value:negative, staff:negative
+
+cleanliness:negative, food/drinks:negative, location:negative, room amenities:negative, staff:negative
+room amenities:positive, cleanliness:positive, comfort:negative, value:neutral, payment:negative, facilities:positive, location:neutral, staff:positive, food/drinks:positive, view:positive
+cleanliness:positive, food/drinks:positive, room amenities:positive
+room amenities:positive, cleanliness:positive, value:positive, beds:negative, facilities:positive, location:negative, food/drinks:positive
+room amenities:positive, facilities:negative, quietness:positive, value:positive, cleanliness:positive, payment:neutral, staff:positive
+
+room amenities:negative, quietness:negative, food/drinks:negative, beds:negative, facilities:negative, location:negative, cleanliness:neutral, payment:negative, staff:negative
+room amenities:positive, cleanliness:positive, value:positive, facilities:negative, location:positive, view:negative, food/drinks:negative, staff:negative
+
+food/drinks:positive, staff:positive
+customer support:negative, room amenities:positive, cleanliness:negative, value:negative, payment:negative, facilities:positive, location:negative, food/drinks:positive, staff:negative
+facilities:neutral
+room amenities:neutral, cleanliness:positive, value:negative, payment:negative, beds:positive, facilities:positive, location:negative, food/drinks:neutral, staff:positive
+facilities:positive, staff:positive, food/drinks:positive, value:positive, payment:negative
+cleanliness:positive, food/drinks:positive, room amenities:positive
+customer support:positive, room amenities:negative, cleanliness:negative, value:negative, payment:negative, beds:positive, facilities:negative, location:negative, view:negative, quietness:negative, food/drinks:neutral, staff:negative
+
+room amenities:positive, value:positive, facilities:positive, customer support:positive, view:positive, food/drinks:negative, staff:positive
+facilities:positive, food/drinks:negative, value:positive
+room amenities:positive, value:negative, facilities:neutral, location:negative, food/drinks:negative, staff:negative
+
+room amenities:positive, cleanliness:positive, value:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, beds:positive, facilities:positive, location:positive, staff:positive, quietness:neutral, food/drinks:neutral, customer support:positive
+facilities:negative, food/drinks:negative, room amenities:neutral, staff:positive
+cleanliness:positive, facilities:positive, food/drinks:positive, value:negative, staff:positive
+customer support:negative, room amenities:negative, cleanliness:positive, value:negative, payment:negative, beds:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+room amenities:positive, cleanliness:positive, beds:positive, facilities:positive, design:positive, location:negative, quietness:positive, food/drinks:positive, staff:neutral
+facilities:negative, food/drinks:neutral, staff:positive
+facilities:positive, location:positive, food/drinks:positive, room amenities:positive, staff:positive
+room amenities:negative, cleanliness:positive, value:positive, beds:negative, facilities:negative, location:negative, food/drinks:neutral, staff:neutral
+facilities:positive, customer support:negative, food/drinks:positive, value:positive, staff:negative
+room amenities:negative, cleanliness:positive, value:positive, food/drinks:positive, facilities:positive, location:negative, staff:neutral, payment:negative, view:negative
+room amenities:positive, cleanliness:positive, comfort:positive, value:neutral, facilities:negative, location:negative, food/drinks:neutral, staff:neutral
+cleanliness:negative, beds:negative, food/drinks:positive, room amenities:negative, staff:negative
+facilities:positive, food/drinks:positive, value:positive, staff:positive
+cleanliness:negative, facilities:negative, food/drinks:negative, room amenities:negative, staff:negative
+cleanliness:positive, food/drinks:positive, room amenities:positive, staff:positive
+room amenities:positive, value:negative, payment:positive, beds:positive, facilities:positive, view:neutral, food/drinks:neutral, staff:positive
+room amenities:negative, cleanliness:negative, value:negative, facilities:negative, quietness:negative, food/drinks:negative
+cleanliness:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:negative, view:negative
+customer support:positive, room amenities:neutral, cleanliness:positive, value:positive, payment:negative, beds:negative, facilities:negative, location:negative, view:negative, quietness:positive, food/drinks:negative, staff:positive
+cleanliness:positive, food/drinks:neutral, room amenities:positive, staff:positive
+room amenities:negative, wifi:positive, value:positive, food/drinks:positive, facilities:neutral, location:negative, payment:neutral, staff:positive
+staff:negative, room amenities:negative, cleanliness:negative, comfort:negative, beds:negative, facilities:negative, location:positive, view:negative, food/drinks:neutral, customer support:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+room amenities:negative, quietness:negative, food/drinks:neutral, location:neutral, payment:negative, staff:positive
+room amenities:positive, value:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, customer support:neutral
+room amenities:neutral, cleanliness:positive, wifi:negative, location:positive, beds:negative, facilities:positive, customer support:negative, staff:negative, food/drinks:positive, view:positive
+room amenities:negative, quietness:positive, wifi:neutral, value:positive, payment:neutral, facilities:neutral, location:positive, food/drinks:neutral, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, payment:negative, food/drinks:positive, staff:negative
+room amenities:neutral, cleanliness:positive, value:negative, food/drinks:positive, beds:positive, facilities:negative, location:positive, view:positive, payment:negative, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, staff:positive, food/drinks:positive, view:positive
+room amenities:negative, cleanliness:positive, facilities:negative, location:negative, food/drinks:negative, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, facilities:neutral, location:negative, food/drinks:positive, staff:neutral
+
+customer support:negative, room amenities:negative, cleanliness:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+room amenities:negative, quietness:negative, comfort:negative, value:negative, beds:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+room amenities:positive, cleanliness:positive, value:positive, payment:positive, beds:positive, food/drinks:positive, staff:positive
+
+room amenities:positive, quietness:positive, cleanliness:positive, value:positive, facilities:positive, location:negative, staff:positive, food/drinks:positive, view:positive
+room amenities:negative, cleanliness:negative, value:positive, facilities:positive, food/drinks:positive, staff:positive
+cleanliness:positive, food/drinks:positive, room amenities:positive
+
+cleanliness:positive, wifi:positive, food/drinks:positive, staff:positive
+comfort:negative, location:negative, room amenities:negative, staff:neutral
+room amenities:negative, cleanliness:neutral, value:negative, facilities:negative, food/drinks:negative, staff:negative
+room amenities:positive, comfort:positive, value:positive, payment:positive, food/drinks:positive, staff:positive
+customer support:negative, room amenities:neutral, value:negative, payment:negative, facilities:neutral, location:negative, food/drinks:positive, staff:neutral
+room amenities:positive, cleanliness:neutral, comfort:positive, value:positive, beds:positive, facilities:positive, location:neutral, quietness:positive, food/drinks:negative, staff:positive
+room amenities:positive, quietness:positive, food/drinks:positive, location:positive, payment:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, food/drinks:positive, staff:negative
+quietness:negative, design:negative, payment:negative, room amenities:negative, staff:negative
+cleanliness:negative, facilities:negative, payment:negative, food/drinks:negative
+customer support:neutral, room amenities:neutral, cleanliness:negative, value:negative, payment:negative, facilities:positive, location:negative, food/drinks:negative, staff:negative
+payment:negative, food/drinks:negative, room amenities:negative, staff:negative
+customer support:positive, room amenities:negative, cleanliness:negative, comfort:positive, value:negative, payment:negative, beds:neutral, facilities:neutral, location:negative, food/drinks:negative, staff:negative
+food/drinks:negative, room amenities:negative, staff:negative
+room amenities:negative, value:positive, facilities:negative, location:negative, food/drinks:negative, staff:negative
+food/drinks:positive, room amenities:positive, staff:positive
+room amenities:positive, value:positive, food/drinks:positive, facilities:positive, location:positive, payment:neutral, staff:positive
+food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, comfort:positive, value:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:negative, value:negative, beds:negative, facilities:positive, food/drinks:negative, staff:negative
+facilities:positive, food/drinks:positive, value:positive, staff:positive
+
+room amenities:neutral, value:negative, payment:negative, beds:positive, facilities:neutral, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, beds:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+food/drinks:positive
+
+room amenities:positive, cleanliness:positive, facilities:negative, location:neutral, food/drinks:negative, staff:positive
+
+
+room amenities:positive, cleanliness:positive, view:positive, value:positive, location:positive, staff:positive, food/drinks:positive, customer support:positive
+value:negative
+room amenities:positive, cleanliness:positive, food/drinks:positive, facilities:neutral, location:positive, payment:positive, staff:positive
+room amenities:positive, cleanliness:positive, location:positive, beds:negative, facilities:positive, customer support:positive, food/drinks:positive, staff:positive
+comfort:negative, room amenities:neutral, cleanliness:negative, view:positive, beds:negative, facilities:positive, customer support:negative, staff:positive, quietness:positive, food/drinks:positive, location:negative
+room amenities:negative, facilities:negative, quietness:negative, location:negative, value:neutral, food/drinks:neutral, cleanliness:positive, customer support:negative, payment:negative, staff:positive
+room amenities:negative, location:negative, value:positive, payment:positive, facilities:positive, customer support:negative, staff:negative, food/drinks:neutral, view:positive
+payment:negative, food/drinks:negative, location:negative, room amenities:negative, staff:negative
+room amenities:positive, cleanliness:positive, payment:negative, facilities:neutral, location:positive, food/drinks:negative, staff:neutral
+
+
+room amenities:negative, cleanliness:negative, facilities:negative, location:negative, staff:negative, food/drinks:negative, customer support:negative
+staff:positive, food/drinks:positive, room amenities:positive, location:positive
+room amenities:neutral, cleanliness:positive, value:negative, beds:positive, facilities:positive, food/drinks:positive, staff:positive
+room amenities:negative, quietness:negative, value:negative, payment:negative, beds:negative, facilities:negative, location:negative, staff:negative, food/drinks:negative, customer support:negative
+room amenities:negative, quietness:negative, cleanliness:negative, location:negative, value:negative, payment:negative, beds:negative, facilities:negative, design:negative, customer support:negative, view:negative, food/drinks:negative, staff:negative
+room amenities:negative, cleanliness:negative, comfort:negative, value:negative, payment:negative, facilities:positive, location:negative, food/drinks:negative, staff:positive
+location:negative, customer support:negative, room amenities:negative, staff:negative
+facilities:positive, location:positive, food/drinks:positive, room amenities:positive, staff:positive
+room amenities:neutral, payment:positive, facilities:negative, location:negative, food/drinks:neutral, staff:negative
+food/drinks:positive, staff:positive
+room amenities:negative, quietness:positive, cleanliness:negative, payment:negative, beds:negative, facilities:positive, staff:negative, food/drinks:negative, view:positive
+cleanliness:positive, food/drinks:neutral, room amenities:positive, staff:positive
+cleanliness:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:positive, staff:positive, food/drinks:positive, room amenities:positive, location:positive
+food/drinks:positive
+room amenities:positive, cleanliness:positive, value:neutral, beds:negative, facilities:negative, customer support:positive, staff:negative, food/drinks:neutral, location:negative
+customer support:negative, room amenities:negative, cleanliness:neutral, comfort:neutral, value:positive, food/drinks:positive, beds:negative, facilities:positive, location:neutral, payment:positive, staff:negative
+room amenities:negative, cleanliness:positive, comfort:positive, value:positive, payment:negative, facilities:neutral, location:positive, view:negative, quietness:positive, food/drinks:neutral, staff:neutral
+room amenities:positive, cleanliness:positive, value:positive, facilities:neutral, food/drinks:positive, staff:positive
+room amenities:negative, value:negative, location:negative, staff:negative, food/drinks:negative, customer support:negative
+facilities:negative, food/drinks:positive
+room amenities:positive, view:positive
+room amenities:negative, value:negative, payment:negative, facilities:negative, location:negative, food/drinks:negative, staff:positive
+room amenities:positive, comfort:positive, location:positive, value:positive, payment:positive, facilities:positive, customer support:negative, food/drinks:positive, staff:positive
+room amenities:positive, quietness:negative, beds:negative, facilities:negative, location:negative, food/drinks:positive, staff:positive
+
+quietness:negative, staff:positive, food/drinks:positive, room amenities:negative, payment:negative
+
+staff:positive, room amenities:negative, cleanliness:negative, value:negative, payment:neutral, beds:positive, facilities:positive, customer support:negative, view:positive, food/drinks:negative, location:positive
+staff:positive
+room amenities:positive, quietness:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:positive, comfort:positive, value:positive, facilities:positive, customer support:positive, staff:neutral, food/drinks:positive, location:positive
+customer support:positive, room amenities:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:neutral, quietness:positive, value:positive, beds:positive, facilities:neutral, location:negative, staff:positive, food/drinks:neutral, customer support:positive
+comfort:negative, food/drinks:negative, room amenities:negative
+view:positive
+room amenities:neutral, cleanliness:positive, location:negative, value:positive, beds:positive, facilities:positive, customer support:neutral, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, comfort:positive, value:negative, food/drinks:positive, facilities:positive, location:neutral, payment:positive, staff:positive
+customer support:positive, room amenities:neutral, cleanliness:negative, value:positive, beds:negative, facilities:neutral, location:positive, view:neutral, quietness:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, comfort:positive, location:positive, value:positive, beds:positive, facilities:positive, customer support:positive, food/drinks:positive, staff:positive
+room amenities:positive
+
+room amenities:negative, quietness:negative, value:positive, facilities:negative, design:negative, location:negative, staff:negative, food/drinks:negative, view:negative
+customer support:negative, room amenities:negative, comfort:positive, cleanliness:negative, wifi:negative, value:positive, payment:positive, beds:negative, facilities:negative, location:negative, food/drinks:positive, staff:negative
+room amenities:positive, cleanliness:positive, location:neutral, value:negative, facilities:negative, customer support:positive, view:positive, quietness:positive, food/drinks:positive, staff:positive
+cleanliness:negative, facilities:negative, room amenities:negative, staff:neutral
+value:negative, location:negative, food/drinks:negative, room amenities:negative, staff:negative
+room amenities:positive, cleanliness:positive, facilities:positive, design:positive, location:positive, quietness:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, wifi:positive, facilities:positive, location:positive, quietness:positive, food/drinks:positive, staff:positive
+payment:negative, room amenities:negative, staff:negative
+room amenities:negative, value:positive, facilities:negative, location:negative, food/drinks:positive, staff:positive
+customer support:positive, room amenities:negative, cleanliness:negative, facilities:negative, location:negative, food/drinks:positive, staff:negative
+room amenities:negative, cleanliness:negative, view:neutral, value:negative, payment:neutral, facilities:positive, customer support:positive, staff:neutral, food/drinks:neutral, location:negative
+room amenities:negative, cleanliness:positive, facilities:negative, customer support:negative, food/drinks:negative, staff:negative
+room amenities:negative, cleanliness:negative, location:negative, value:negative, payment:negative, beds:negative, facilities:negative, customer support:negative, food/drinks:negative, staff:negative
+facilities:positive, food/drinks:positive, room amenities:negative, staff:positive
+quietness:negative, food/drinks:negative, room amenities:negative, staff:negative
+room amenities:positive, quietness:positive, view:positive, value:positive, payment:neutral, facilities:negative, location:neutral, cleanliness:positive, food/drinks:neutral, staff:positive
+beds:negative, comfort:negative, location:negative, room amenities:negative, staff:negative
+room amenities:negative, cleanliness:positive, comfort:negative, value:neutral, food/drinks:positive, design:negative, location:negative, payment:negative, staff:positive
+facilities:negative, value:negative, food/drinks:negative, room amenities:negative, staff:neutral
+room amenities:negative, beds:negative, facilities:negative, customer support:negative, food/drinks:neutral, staff:negative
+room amenities:negative, cleanliness:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+customer support:positive, room amenities:negative, value:positive, payment:negative, facilities:negative, location:positive, staff:positive, food/drinks:negative, view:negative
+room amenities:positive, value:negative, payment:negative, facilities:neutral, location:negative, view:positive, food/drinks:neutral, staff:negative
+cleanliness:positive, facilities:positive, food/drinks:positive, room amenities:positive, staff:positive
+
+payment:negative, view:negative, food/drinks:positive, room amenities:negative, staff:negative
+room amenities:positive, cleanliness:positive, value:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+
+facilities:neutral, food/drinks:positive, location:negative, room amenities:positive, staff:negative
+food/drinks:positive, room amenities:positive, staff:positive
+facilities:neutral, food/drinks:positive, payment:negative, room amenities:positive, staff:positive
+food/drinks:positive, location:positive, room amenities:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, customer support:negative
+customer support:negative, room amenities:positive, cleanliness:positive, value:positive, payment:negative, facilities:positive, location:neutral, quietness:positive, food/drinks:positive, staff:neutral
+cleanliness:negative, value:positive, food/drinks:positive, room amenities:negative, staff:negative
+value:positive, comfort:positive, food/drinks:positive, room amenities:positive, payment:negative
+room amenities:negative, cleanliness:negative, beds:negative, facilities:negative, location:positive, food/drinks:negative, staff:negative
+customer support:positive, room amenities:neutral, cleanliness:positive, facilities:negative, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, food/drinks:positive, facilities:negative, location:positive, payment:negative, staff:neutral
+room amenities:negative, comfort:positive, beds:negative, facilities:negative, customer support:positive, food/drinks:positive
+room amenities:negative, food/drinks:negative, facilities:negative, location:negative, payment:negative, staff:negative
+cleanliness:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:positive, comfort:positive, value:negative, payment:negative, beds:neutral, facilities:neutral, location:negative, staff:negative, quietness:positive, food/drinks:negative, customer support:negative
+cleanliness:positive, facilities:positive, value:positive, room amenities:positive
+room amenities:positive, cleanliness:negative, value:neutral, beds:positive, facilities:positive, location:neutral, food/drinks:neutral, staff:negative
+food/drinks:negative, value:neutral, room amenities:negative, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, payment:negative, facilities:negative, location:negative, food/drinks:negative, staff:positive
+room amenities:negative, value:neutral, beds:negative, location:negative, food/drinks:negative, staff:negative
+food/drinks:negative, customer support:positive, staff:positive
+room amenities:negative, food/drinks:negative, facilities:negative, location:negative, payment:negative, staff:negative
+room amenities:negative, cleanliness:positive, value:negative, facilities:negative, location:negative, quietness:neutral, food/drinks:negative, staff:negative
+customer support:negative, room amenities:negative, cleanliness:positive, value:neutral, payment:negative, beds:negative, facilities:neutral, location:negative, staff:positive, quietness:negative, food/drinks:neutral, view:neutral
+room amenities:positive, cleanliness:neutral, comfort:positive, value:positive, beds:negative, facilities:negative, customer support:positive, staff:positive, quietness:positive, food/drinks:positive, location:positive
+food/drinks:positive
+cleanliness:positive, food/drinks:positive, value:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, staff:positive, food/drinks:positive, view:positive
+room amenities:positive, cleanliness:positive, value:positive, facilities:positive, location:neutral, view:negative, quietness:positive, food/drinks:positive, staff:positive
+room amenities:neutral, cleanliness:positive, value:negative, facilities:positive, location:positive, food/drinks:positive, staff:positive
+food/drinks:positive, room amenities:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, view:negative, food/drinks:positive, staff:positive
+wifi:positive, room amenities:positive, quietness:positive, cleanliness:positive, comfort:positive, location:neutral, value:positive, food/drinks:neutral, beds:positive, facilities:positive, customer support:positive, staff:negative, payment:positive, view:positive
+room amenities:negative, cleanliness:negative, facilities:negative, customer support:negative, quietness:negative, food/drinks:negative, staff:negative
+food/drinks:negative, room amenities:negative
+food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, payment:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, location:positive, value:negative, staff:negative
+food/drinks:positive, staff:positive
+room amenities:negative, quietness:negative, food/drinks:positive, cleanliness:negative, design:positive, location:positive, payment:positive, staff:positive
+food/drinks:negative, staff:negative
+room amenities:neutral, location:neutral, facilities:neutral, customer support:negative, staff:negative, food/drinks:neutral, view:positive
+room amenities:negative, cleanliness:negative, value:negative, food/drinks:positive, facilities:negative, location:negative, quietness:negative, payment:negative
+room amenities:positive, cleanliness:neutral, wifi:positive, payment:negative, facilities:negative, food/drinks:positive, staff:neutral
+room amenities:negative, cleanliness:negative, payment:negative, facilities:positive, customer support:negative, food/drinks:negative, staff:negative
+cleanliness:positive, comfort:positive, value:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:positive, comfort:neutral, value:neutral, food/drinks:positive, beds:negative, facilities:positive, location:negative, view:positive, payment:neutral, staff:neutral
+wifi:positive, room amenities:negative, cleanliness:positive, comfort:positive, value:negative, payment:negative, facilities:positive, design:positive, location:negative, food/drinks:positive, staff:positive
+cleanliness:positive, location:positive, food/drinks:positive, room amenities:positive, staff:positive
+beds:positive, food/drinks:positive, value:negative, staff:positive
+room amenities:positive, cleanliness:positive, value:negative, payment:negative, facilities:negative, location:negative, food/drinks:positive, staff:positive
+room amenities:negative, cleanliness:negative, facilities:negative, location:negative, quietness:negative, food/drinks:negative, staff:negative
+room amenities:positive, cleanliness:positive, facilities:positive, location:negative, food/drinks:positive, staff:positive
+room amenities:positive, facilities:negative, location:negative, view:positive, payment:negative, staff:positive
+food/drinks:positive, room amenities:positive
+room amenities:positive, cleanliness:positive, value:neutral, payment:negative, location:negative, food/drinks:positive, staff:positive
+quietness:positive, payment:positive, food/drinks:positive, room amenities:positive, staff:positive
+facilities:positive, food/drinks:positive, room amenities:positive, staff:positive
+cleanliness:positive, facilities:positive, food/drinks:positive, value:positive, staff:positive
+room amenities:neutral, cleanliness:positive, facilities:negative, design:positive, location:negative, food/drinks:negative, staff:neutral
+room amenities:positive
+cleanliness:negative, food/drinks:negative, location:positive, room amenities:negative, staff:negative
+room amenities:positive, cleanliness:neutral, value:negative, payment:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+room amenities:positive, cleanliness:positive, comfort:positive, location:negative, food/drinks:positive, staff:positive
+cleanliness:negative, food/drinks:negative, room amenities:negative, staff:negative
+staff:positive
+facilities:positive, food/drinks:positive, staff:positive
+facilities:negative, payment:negative, food/drinks:negative
+room amenities:positive, food/drinks:positive, value:positive, staff:neutral
+facilities:negative, comfort:positive, food/drinks:positive, room amenities:positive
+room amenities:negative, facilities:positive, cleanliness:neutral, value:positive, food/drinks:positive, quietness:negative, location:negative, payment:negative, staff:negative
+room amenities:negative, cleanliness:negative, facilities:negative, customer support:negative, food/drinks:negative, staff:negative
+room amenities:negative, comfort:negative, value:positive, payment:negative, facilities:negative, location:negative, food/drinks:negative, staff:negative
+cleanliness:positive, customer support:positive, room amenities:positive, staff:positive
+location:negative, staff:negative
+room amenities:negative, cleanliness:negative, payment:negative, beds:negative, facilities:neutral, customer support:negative, food/drinks:negative, staff:positive
+customer support:negative, room amenities:negative, food/drinks:neutral, facilities:negative, location:negative, staff:negative, payment:negative, view:negative
+room amenities:positive, cleanliness:positive, value:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, value:positive, facilities:positive, location:negative, food/drinks:negative, staff:positive
+room amenities:negative, facilities:positive, customer support:negative, staff:negative, food/drinks:negative, location:negative
+food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, comfort:positive, value:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+customer support:negative, room amenities:positive, quietness:positive, payment:positive, facilities:positive, location:positive, food/drinks:positive, staff:positive
+room amenities:positive, cleanliness:positive, facilities:neutral, location:positive, staff:positive, food/drinks:positive, view:positive
+
+facilities:positive, food/drinks:negative, room amenities:neutral, value:positive, staff:positive
+food/drinks:neutral, location:neutral, room amenities:neutral, staff:neutral
+room amenities:neutral, quietness:neutral, payment:negative, facilities:positive, food/drinks:positive, staff:negative
+facilities:positive, food/drinks:positive, staff:positive
+staff:negative
+room amenities:positive, cleanliness:positive, comfort:positive, value:positive, payment:negative, facilities:neutral, location:positive, food/drinks:neutral, staff:positive
+room amenities:negative, value:negative, facilities:negative, customer support:negative, food/drinks:negative, staff:negative
+
+cleanliness:positive
+
+value:positive
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+view:positive

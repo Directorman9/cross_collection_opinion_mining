@@ -1,0 +1,45 @@
+Total number of reviews :  608 
+design:positive 22 
+cleanliness:positive 117 
+quietness:neutral 7 
+facilities:positive 150 
+room amenities:negative 212 
+payment:positive 40 
+comfort:neutral 1 
+payment:negative 146 
+view:positive 142 
+value:positive 179 
+location:neutral 49 
+beds:neutral 7 
+food/drinks:negative 164 
+beds:negative 72 
+quietness:negative 48 
+design:neutral 1 
+value:neutral 49 
+wifi:positive 12 
+payment:neutral 9 
+comfort:positive 68 
+room amenities:neutral 53 
+cleanliness:negative 84 
+view:neutral 12 
+quietness:positive 44 
+staff:negative 168 
+staff:positive 253 
+beds:positive 57 
+view:negative 80 
+customer support:neutral 9 
+design:negative 16 
+customer support:positive 50 
+value:negative 144 
+facilities:negative 208 
+location:negative 194 
+wifi:negative 16 
+food/drinks:neutral 53 
+comfort:negative 19 
+customer support:negative 84 
+staff:neutral 37 
+cleanliness:neutral 15 
+room amenities:positive 200 
+location:positive 121 
+food/drinks:positive 215 
+facilities:neutral 61 
