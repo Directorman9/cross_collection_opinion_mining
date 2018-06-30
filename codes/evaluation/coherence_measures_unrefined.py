@@ -9,7 +9,7 @@ Where:
  To make these files see other codes.
 '''
 
-import codecs, sys, pickle, os, string
+import codecs, sys, pickle, os, csv, string
 from gensim.topic_coherence import probability_estimation, direct_confirmation_measure, indirect_confirmation_measure
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -35,22 +35,20 @@ for file in os.listdir(inputDir):
     outputfile4 = inputfile + 'npmi'
     topics = []
     topic = []
+    i = 0
     with codecs.open(inputfile, encoding='utf-8', mode='r', errors='ignore') as inputFile:
-         t=False
-         for line in inputFile:
-             line = line.strip()
-	     if not line:continue
-             if t == False:
-                if line[0:5] == 'Topic':
-                   t=True
-             else:
-                if line[0:5] == 'Topic':
-                   topics.append(topic)
-                   topic = []
-                else:
-                   topic.append(line)              
-    topics.append(topic)
-    topic = []
+	 reader = csv.reader(inputFile, delimiter=',')
+	 data = list(reader)
+	 topic_words = [row[1] for row in data] 
+	 topic_words = topic_words[1:]  
+	     
+	 while len(topic_words) > 9:
+	       topic = topic_words[0:10]
+	       topic_words = topic_words[10:]
+	       topics.append(topic)
+	
+    #store top 5 words in each topic before refinement for future use
+    topics = [topic[0:5] for topic in topics]
 
 
 

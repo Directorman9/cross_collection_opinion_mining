@@ -17,7 +17,7 @@ outputfile = inputfile + 'sents'
 
 #Get topic words from cptm post processed output file
 topics = []
-opinion = [[],[],[],[],[],[]]
+opinion = [[],[],[]]
 
 with codecs.open(inputfile, encoding='utf-8', mode='r', errors='ignore') as inputFile:
      reader = csv.reader(inputFile, delimiter=',')
@@ -26,12 +26,12 @@ with codecs.open(inputfile, encoding='utf-8', mode='r', errors='ignore') as inpu
 
      for row in data:
          if row[0] == '9':
-            for i in range(0,6):
+            for i in range(0,3):
                 opinion[i].append(row[i+2])
             topics.append(opinion)
-            opinion = [[],[],[],[],[],[]]          
+            opinion = [[],[],[]]          
          else:
-            for i in range(0,6):
+            for i in range(0,3):
                 opinion[i].append(row[i+2])
    
 
