@@ -1,12 +1,12 @@
 # Cross-collection opinion mining
 
-This repository contains code and data sets I used in my Master's thesis; Cross-collection aspect based opinion mining using topic models.
+This repository contains code and data sets I used in my Master's thesis "Cross-collection aspect based opinion mining using topic models"
 
 
 How to use these resources.
 
 Datasets:
-All data sets can be found under the data sets directory. Detail of data sets can be found in the actual thesis document.
+All data sets can be found under the data sets directory. Detail of data sets can be found in the actual thesis document http://research.sabanciuniv.edu/36615/1/10209464_HemedHamisiKaporo.pdf.
 
     • The airlines data set can also be downloaded from https://www.kaggle.com/crowdflower/twitter-airline-sentiment
     • The debate data set can also be downloaded from https://www.kaggle.com/benhamner/clinton-trump-tweets
