@@ -1,6 +1,6 @@
 # Cross-collection opinion mining
 
-This project contains code and data sets I used in my Master's thesis; Cross-collection aspect based opinion mining using topic models.
+This repository contains code and data sets I used in my Master's thesis; Cross-collection aspect based opinion mining using topic models.
 
 
 How to use these resources.
